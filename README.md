@@ -10,9 +10,11 @@ Voor de performance Audit heb ik de website van gemeente Diemen getest.
 
 
 Link naar de website:
+
 https://www.diemen.nl/ 
 
 PageSpeed resultaat:
+
 https://pagespeed.web.dev/analysis/https-www-diemen-nl/yorsnugug7?form_factor=desktop 
 
 
